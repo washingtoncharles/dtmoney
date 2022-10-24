@@ -9,10 +9,10 @@
 </p>
 
 <h1 align="center">
-    <img alt="dtMoney" src=".github/dtmoney_principal.svg" />
+    <img alt="dtMoney" src="/.github/dtmoney_principal.png" width="600px"/>
 </h1>
 <h1 align="center">
-    <img alt="dtMoney Modal" src=".github/dtmodey_modal.svg" />
+    <img alt="dtMoney Modal" src="/.github/dtmodey_modal.png" width="600px"/>
 </h1>
 
 <br>
